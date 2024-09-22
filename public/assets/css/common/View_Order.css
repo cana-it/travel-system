@@ -1,0 +1,12 @@
+.viewfull {
+    width: 100%;
+    position: fixed;
+    height: 100%;
+    top: -12px;
+    z-index: 9999999;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: white;
+    overflow-y: scroll;
+}

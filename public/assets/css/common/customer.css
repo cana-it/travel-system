@@ -1,0 +1,29 @@
+.group__radio-hear{
+    padding:  10px 10px;
+    margin: 20px 0;
+    font-weight: 500;
+    color: #fff;
+    background-color: #dc3545;
+}
+.custom-radio{
+   
+    font: 1.5rem;
+    padding: 10px 30px;
+    margin-bottom: 10px;
+    border: 1px solid #3de208;
+    border-radius: 5px;
+    background-color: #ebf5e5;
+}
+.custom-radio label{
+    display: block;
+    cursor: pointer;
+}
+
+.titlecenter{
+    position: absolute;
+    margin-top: -15px;
+    background: white;
+    margin-left: 3px;
+    padding: 0px 12px;
+    font-weight: 600;
+}
